@@ -136,17 +136,35 @@ header h1 {
 .icon-credit {
   padding: 0.2rem 0.4rem;
   font-size: 0.75rem;
-  bottom: 0;
   opacity: 0.4;
-  position: absolute;
+  position: fixed;
   bottom: 0;
+  left: 0;
 }
+
+.project-credit {
+  padding: 0.2rem 0.4rem;
+  font-size: 1rem;
+  opacity: 0.6;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
 
 .icon-credit a,
 .icon-credit a:active,
 .icon-credit a:visited {
   text-decoration: none;
   color: #222;
+}
+
+.project-credit a,
+.project-credit a:active,
+.project-credit a:visited {
+  text-decoration: none;
+  color: #222;
+  font-weight: 500;
 }
 
 @media (max-width: 512px) {

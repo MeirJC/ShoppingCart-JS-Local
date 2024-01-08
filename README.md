@@ -1,11 +1,12 @@
 # ShoppingCart-JS-Local
 
+> (It's actually a shopping list) - bad repo name... changed after repo creation 😉
+
 Simple VanillaJS Shopping Cart using localStorage for CRUD operations
 
 ## Demo
 
-> To Be inseterd once finished and deployed
-> [Live Demo](https://justsomeaddress.com)
+[Live Demo](https://shoppingcart-mjc.netlify.app) via Netlify
 
 ## Usage
 
@@ -16,7 +17,4 @@ Simple VanillaJS Shopping Cart using localStorage for CRUD operations
 - Filter items by name using the "Filter Items" search input.
 - Clear the cart by clicking the `Clear All` button.
 - The cart will persist on page reloads using `localStorage`.
-
-## Preview
-
-> Preview of the app - To Be inseterd once finished and deployed
+- Editing items is available by clicking the list item name and updating the value on the input field.
