@@ -6,7 +6,7 @@ Simple VanillaJS Shopping Cart using localStorage for CRUD operations
 
 ## Demo
 
-[Live Demo](https://shoppingcart-mjc.netlify.app) via Netlify
+[Live Demo](https://shoppingcart-mjc.netlify.app)
 
 ## Usage
 
